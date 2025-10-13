@@ -1,13 +1,16 @@
 <h1 align="center" border-radius="2xp">Hi 👋, I'm Rajat Singh</h1>
 <h3 align="center">Software Engineer | Web Developer | Game Developer</h3>
 
+
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/95513283?s=400&u=b2e2ce9e724c1d6fe10a7e548b94c0c2c5c24e8d&v=4" alt="rajatsingh900k" style="border-radius: 15px;"/> </p>
 
  ---
 
 ### 🏆 Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsingh900k" alt="rajatsingh900k" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajatsingh900k&theme=radical&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 
 - 🌱 I’m currently learning **Game Development**
