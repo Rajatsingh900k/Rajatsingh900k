@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Game Development & Data Science**
 
-- 👨‍💻 Protfolio: [@rajatsingh900k](https://react-portfolio-ebon-ten-76.vercel.app/)
+- 👨‍💻 Protfolio: [@Rajatsingh900k](https://react-portfolio-ebon-ten-76.vercel.app/)
 
 - 💬 Ask me about **Web development & Game Development**
 
