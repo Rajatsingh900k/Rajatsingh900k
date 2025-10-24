@@ -1,6 +1,9 @@
 <h1 align="center" border-radius="2xp">Hi 👋, I'm Rajat Singh</h1>
 <h3 align="center">Software Engineer | Web Developer | Game Developer</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=🚀+Game+Developer;🎓+B.Tech+Computer+Science+Student;⚡+Building+the+future,+one+line+at+a+time;🧠+Problem+Solver+and+Tech+Enthusiast;🔥+Passionate+about+Clean+Code;⭐+Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/95513283?s=400&u=b2e2ce9e724c1d6fe10a7e548b94c0c2c5c24e8d&v=4" alt="rajatsingh900k" style="border-radius: 15px;"/> </p>
 
@@ -13,15 +16,15 @@
 </p>
 
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Game Development & Data Science**
 
-- 👨‍💻 Protfolio: [Click Here](https://react-portfolio-ebon-ten-76.vercel.app/)
+- 👨‍💻 Protfolio: [@rajatsingh900k](https://react-portfolio-ebon-ten-76.vercel.app/)
 
 - 💬 Ask me about **Web development & Game Development**
 
 - 📫 How to reach me **rajatsingh900k@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1167l46iGjivzIJodVEVZ4wYRPEiN8V5M/view?usp=sharing)
+- 📄 Know about my experiences [About Me](https://drive.google.com/file/d/1167l46iGjivzIJodVEVZ4wYRPEiN8V5M/view?usp=sharing)
 
 - ⚡ Fun fact:  **true innovation begins when you dare to think outside the box.**
 
